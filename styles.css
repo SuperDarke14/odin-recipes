@@ -1,0 +1,24 @@
+* {
+	background-color: oklch(63.12% 0.004 219.55); /*Dark gray */
+	color: oklch(95.57% 0.003 286.35); /*Light gray */ 
+	font-family: 'Courier New', 'Helvetica', sans-serif;
+	padding: 1rem;
+}
+img {
+	width: auto;
+	height: 32rem;
+	margin: auto;
+	display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	background-color: oklch(74.68% 0.002 197.12);
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+em, strong {
+	padding: 0;
+}
